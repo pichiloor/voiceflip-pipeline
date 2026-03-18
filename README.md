@@ -2,6 +2,11 @@
 
 Async processing pipeline built with Python and FastAPI.
 
+## Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
 ## Run
 
 ```bash

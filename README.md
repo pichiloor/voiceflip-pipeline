@@ -76,4 +76,4 @@ Failed handlers are retried with exponential backoff and jitter. Only connection
 
 ## Video walkthrough
 
-<!-- Add Loom link here -->
+https://drive.google.com/file/d/1u1rsh-UIzJatp35JAZNdpPTpsSzNYJ1_/view?usp=sharing
